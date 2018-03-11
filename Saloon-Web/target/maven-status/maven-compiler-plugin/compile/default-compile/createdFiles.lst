@@ -1,0 +1,10 @@
+com\saloon\web\dao\UnitDAO.class
+com\saloon\web\dao\ColorDAO.class
+com\saloon\web\dao\impl\ColorDAOImpl.class
+com\saloon\web\controller\DefaultController.class
+com\saloon\web\dao\impl\UnitDAOImpl.class
+com\saloon\web\DispatcherConfigurer.class
+com\saloon\web\AppInitializer.class
+com\saloon\web\entity\Unit.class
+com\saloon\web\dao\impl\ColorDAOImpl$1.class
+com\saloon\web\entity\Color.class
